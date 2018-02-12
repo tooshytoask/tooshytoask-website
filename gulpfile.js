@@ -120,7 +120,7 @@ gulp.task('serve', () => {
   });
 });
 
-gulp.task('serve:docs', ['default'], () => {
+gulp.task('serve:dist', ['default'], () => {
   browserSync.init({
     notify: false,
     port: 9000,
