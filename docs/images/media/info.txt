@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+
+font name: Archivo-Bold
+font link: https://fonts.google.com/specimen/Archivo
+font author: Omnibus-Type
+font author site: http://www.omnibus-type.com/
+
+icon designer: Round Pixel
+icon designer link: /roundpixel
+        
+{"bg-gradient-0":"#F00079","bg-gradient-1":"#F2A041","icon":"#ffffff","font":"#ffffff"}
+      
