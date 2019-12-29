@@ -1,4 +1,6 @@
-# robotstxt.org/
+User-agent: *
+Disallow: 
+Disallow: /404.html
 
-User-agent: * 
-Disallow:
+
+Sitemap: https://www.tooshytoask.com/sitemap.xml
